@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Pro Studio",
+  "description": "High-fidelity image generation and editing using Gemini 3 Pro (Nano Banana Pro). Features 4K resolution, 3D camera control, and in-painting.",
+  "requestFramePermissions": []
+}
